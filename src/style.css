@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    background-color: aquamarine;
+  }
+  img {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+  }
+  button {
+    width: 260px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 800;
+    background: center;
+    margin: 15px;
+    color: crimson;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  button:hover {
+    background: black;
+    border: none;
+  }
